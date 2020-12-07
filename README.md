@@ -96,12 +96,12 @@ WELL, MAYBE WE HAVE TO WAIT ?
 ___
 For more interesting stuffs,
 
-*  [Time travel](https://www.youtube.com/watch?v=DoJU3GxkuYw)
+*  [Time travel.](https://www.youtube.com/watch?v=DoJU3GxkuYw)
 
-* [10 Out of this universe ideas about Time travel](https://listverse.com/2018/04/11/10-out-of-this-universe-ideas-about-time-travel/)
-* [Proclaimed Time travellers](https://www.youtube.com/watch?v=ezJrzGajsNg)
-* [Time dilation](https://www.youtube.com/watch?v=HHRK6ojWdtU)
-* [Interesting movie scenes that show time travelling](https://www.youtube.com/watch?v=WFlLhXrYlWg)
+* [10 Out of this universe ideas about Time travel.](https://listverse.com/2018/04/11/10-out-of-this-universe-ideas-about-time-travel/)
+* [Proclaimed Time travellers.](https://www.youtube.com/watch?v=ezJrzGajsNg)
+* [Time dilation.](https://www.youtube.com/watch?v=HHRK6ojWdtU)
+* [Interesting movie scenes that show time travelling.](https://www.youtube.com/watch?v=WFlLhXrYlWg)
 
 
 
