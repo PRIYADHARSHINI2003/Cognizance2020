@@ -80,6 +80,9 @@ Using gravity would also be deadly. To experience time dilation, one could stand
  ### 2. TWIN PARADOX
 In physics, the twin paradox is a thought experiment in special relativity involving identical twins, one of whom makes a journey into space in a high-speed rocket and returns home to find that the twin who remained on Earth has aged more. This result appears puzzling because each twin sees the other twin as moving, and so, according to an incorrect and naive application of time dilation and the principle of relativity, each should paradoxically find the other to have aged less. 
 
+
+[Bizarre Paradox of time travel explained!](http://www.astronomytrek.com/5-bizarre-paradoxes-of-time-travel-explained/)
+
 ![twin paradox](https://external-preview.redd.it/9hn7M852S78tSgZEBeG4iZC2w_lv3lAl8DWYMq4LIPs.jpg?auto=webp&s=148d96e83ea859c8c85b1bb71961ab75fb37df76)
 
 ## So is time travel possible?
