@@ -77,7 +77,7 @@ Also, humans may not be able to withstand time travel at all. Traveling nearly t
 
 Using gravity would also be deadly. To experience time dilation, one could stand on a neutron star, but the forces a person would experience would rip you apart first.
 ![image](https://live.staticflickr.com/8459/7936218464_8f1dcacde8_z.jpg)
-2. ###  TWIN PARADOX
+ ### 2. TWIN PARADOX
 In physics, the twin paradox is a thought experiment in special relativity involving identical twins, one of whom makes a journey into space in a high-speed rocket and returns home to find that the twin who remained on Earth has aged more. This result appears puzzling because each twin sees the other twin as moving, and so, according to an incorrect and naive application of time dilation and the principle of relativity, each should paradoxically find the other to have aged less. 
 
 ![twin paradox](https://external-preview.redd.it/9hn7M852S78tSgZEBeG4iZC2w_lv3lAl8DWYMq4LIPs.jpg?auto=webp&s=148d96e83ea859c8c85b1bb71961ab75fb37df76)
