@@ -27,13 +27,14 @@ Picture a four-dimensional fabric called [space-time](https://www.space.com/655-
 
 ![SPACE-TIME](https://cdn.mos.cms.futurecdn.net/WcygHAY8WVxy2ToWBqQuxZ.jpg)
 
-* TIME DILATION
+* ### TIME DILATION
 
 
 Both the general and special relativity theories have been proven with GPS satellite technology that has very accurate timepieces on board. The effects of gravity, as well as the satellites' increased speed above the Earth relative to observers on the ground, make the unadjusted clocks gain 38 microseconds a day. (Engineers make calibrations to account for the difference.)
 
 
 
+[Stephen Hawking on time travel](https://www.businessinsider.com/stephen-hawking-book-backward-time-travel-possibility-2018-11)
 ## THEORIES
 * ###  Infinite cylinder
 
@@ -76,7 +77,7 @@ Also, humans may not be able to withstand time travel at all. Traveling nearly t
 
 Using gravity would also be deadly. To experience time dilation, one could stand on a neutron star, but the forces a person would experience would rip you apart first.
 ![image](https://live.staticflickr.com/8459/7936218464_8f1dcacde8_z.jpg)
-### 2. TWIN PARADOX
+2. ###  TWIN PARADOX
 In physics, the twin paradox is a thought experiment in special relativity involving identical twins, one of whom makes a journey into space in a high-speed rocket and returns home to find that the twin who remained on Earth has aged more. This result appears puzzling because each twin sees the other twin as moving, and so, according to an incorrect and naive application of time dilation and the principle of relativity, each should paradoxically find the other to have aged less. 
 
 ![twin paradox](https://external-preview.redd.it/9hn7M852S78tSgZEBeG4iZC2w_lv3lAl8DWYMq4LIPs.jpg?auto=webp&s=148d96e83ea859c8c85b1bb71961ab75fb37df76)
